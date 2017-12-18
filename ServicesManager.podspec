@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ServicesManager"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Megaleios request class."
   s.description  = "ServicesManager classe de request megaleios."
 
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "10.3"
 
   #s.source       = { :path => '.' }
-  s.source       = { :git => "https://github.com/LeoValentim/ServicesManager.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/LeoValentim/ServicesManager.git", :tag => "1.0.1" }
 
   s.source_files = "ServicesManager", "ServicesManager/**/*.{h,m,swift}"
 
